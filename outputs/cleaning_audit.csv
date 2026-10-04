@@ -1,0 +1,6 @@
+step,removed,remaining
+Remove exact duplicate rows,5268,536641
+Exclude C cancellation invoices,9251,527390
+Require positive quantity,1336,526054
+Require positive unit price,1176,524878
+Require description,0,524878

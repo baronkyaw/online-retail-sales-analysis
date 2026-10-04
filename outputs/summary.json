@@ -1,0 +1,18 @@
+{
+  "source_rows": 541909,
+  "positive_rows": 524878,
+  "positive_purchase_gbp": 10642110.804000001,
+  "signed_value_gbp": 9748131.074,
+  "negative_value_gbp": -893979.73,
+  "duplicate_value_effect_gbp": 24573.73999999836,
+  "peak_complete_month": "2011-11",
+  "peak_complete_month_signed_gbp": 1456145.8,
+  "uk_share_signed_value": 0.8400843445614097,
+  "known_customers": 4338,
+  "repeat_buyer_share": 0.6558321807284463,
+  "anonymous_purchase_share": 0.1649016762107375,
+  "top_10pct_customer_share": 0.6145208192064806,
+  "top_product_code": "22423",
+  "top_product_name": "REGENCY CAKESTAND 3 TIER",
+  "top_product_signed_gbp": 164459.49
+}
